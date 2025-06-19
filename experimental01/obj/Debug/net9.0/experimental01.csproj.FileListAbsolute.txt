@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.AssemblyInfo.cs
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.sourcelink.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\bin\Debug\net9.0\experimental01.exe
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\bin\Debug\net9.0\experimental01.deps.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\bin\Debug\net9.0\experimental01.runtimeconfig.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\bin\Debug\net9.0\experimental01.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\bin\Debug\net9.0\experimental01.pdb
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\refint\experimental01.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.pdb
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\experimental01.genruntimeconfig.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\experimental01\obj\Debug\net9.0\ref\experimental01.dll
