@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+C:\Users\Admin\Documents\proyecto estructura de datos\estructura de datos\semana05\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
